@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+body{
+    font-family: 'Montserrat',sans-serif;
+    overflow-x: hidden;
+      
+}
+
+#menu li > a{
+    font-size: 18px;
+    font-weight: bold;
+    color: greenyellow;
+}
+
+#menu form > button{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#bienvenida{
+    
+    border-radius: 10px;   
+}
+
+#prueba{
+    width: 500px;
+    height: 500px;
+    margin-left: 25%;
+}
+
+#titulo{
+    margin-top: 2%;
+}
+
+.card{
+    width: 18rem;
+    height: 17rem;
+}
+
+#cards{
+    margin-bottom: 17rem;
+}
+
+#preguntasTexto,#cabeceraTextoPreguntas,#listaPreguntas{
+    margin-left: 13rem;
+}
+
+#botonesPreguntas{
+    margin-left: 12rem;
+}
+
+#preguntas{
+    background-color:gainsboro;
+}
+
+#titulosGeneral,#texGeneral{
+    margin-left: 5%;
+}
+
+#botonExtrusor{
+    margin-left: 5%;
+}
+
+#introText{
+    margin-left: 5%;
+}
+
+#enviar{
+    margin-left: 5.5%;
+}
